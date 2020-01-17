@@ -13,8 +13,8 @@ char auth[] = "34c332515f204fa0a3a68dfefa3bcdad";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Walia";
-char pass[] = "merawifihai";
+char ssid[] = "";
+char pass[] = "";
 
 #define DHTPIN 2 // Signal pin connected to D4 of nodemcu
 
